@@ -1,0 +1,9 @@
+{
+	"name": "asuscomm.com",
+	"ipv4": {
+		"url": "update_asuscomm_com.sh"
+	},
+	"ipv6": {
+		"url": "update_asuscomm_com.sh"
+	}
+}
